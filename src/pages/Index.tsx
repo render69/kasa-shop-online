@@ -10,32 +10,32 @@ const Index = () => {
     { 
       category: "pos-terminals", 
       name: "POS Terminals", 
-      image: "https://images.unsplash.com/photo-1606143957232-96853189ee37?q=80&w=500&auto=format&fit=crop" 
+      image: "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fkiosks.ru%2Fwp-content%2Fuploads%2F2020%2F05%2FMobilnyi-POS-terminal-TPS900.png&f=1&nofb=1&ipt=7d0a3438af9eca9ea0499adeb2c56c8c43dac8dca110e25608f4c7d6bac52dd7" 
     },
     { 
       category: "receipt-printers", 
       name: "Receipt Printers", 
-      image: "https://images.unsplash.com/photo-1631815588090-d4bfec5b1ccb?q=80&w=500&auto=format&fit=crop" 
+      image: "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpos-center.ru%2Fimg%2Fjournal%2Fprintery-chekov-vidy-naznachenie-i-osobennosti-vybora-2.jpg&f=1&nofb=1&ipt=806babd48534e6849b48ef9dce73106d95b4f7fac82530e2037803ed8f231900" 
     },
     { 
       category: "barcode-scanners", 
       name: "Barcode Scanners", 
-      image: "https://images.unsplash.com/photo-1617791160536-598cf32026fb?q=80&w=500&auto=format&fit=crop" 
+      image: "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.labelprinter.ru%2Fsites%2Fdefault%2Ffiles%2Fruchnye_skanery_shtrikh_kodov_0.jpg&f=1&nofb=1&ipt=5bb6d8fd3df745053561a6801f0d2954045d9e139803aa2a5d534aba1cebf867" 
     },
     { 
       category: "cash-drawers", 
       name: "Cash Drawers", 
-      image: "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?q=80&w=500&auto=format&fit=crop" 
+      image: "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fkassy-ofd.ru%2Fimages%2Fdetailed%2F2%2F5506.970_pxuf-ez.jpg&f=1&nofb=1&ipt=a1081f042d81bb9e51c555ba7359e916312594de7678515b3dd442dc9075ef69" 
     },
     { 
       category: "customer-displays", 
       name: "Customer Displays", 
-      image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?q=80&w=500&auto=format&fit=crop" 
+      image: "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fkassaofd.ru%2Fwp-content%2Fuploads%2F2019%2F06%2FDisplei-pokupatelya.png&f=1&nofb=1&ipt=06fabf3601b797f052594ef61bbde47c7d5e8cceeef3272d9a96a570da616be0" 
     },
     { 
       category: "accessories", 
       name: "Accessories", 
-      image: "https://images.unsplash.com/photo-1600003014755-ba31aa59c4b6?q=80&w=500&auto=format&fit=crop" 
+      image: "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimage.made-in-china.com%2F2f0j00QSZanvPykmog%2F78-Keys-POS-Programmable-Keyboard-GS-KB78-.jpg&f=1&nofb=1&ipt=3262d9940044714357c0774bb4c1e4745d2e69c38987eb80a1e95a79dacb928d" 
     },
   ];
 
