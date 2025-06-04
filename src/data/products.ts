@@ -443,7 +443,7 @@ export const products: Product[] = [
     name: "Промышленный принтер штрих-кодов BP520",
     description: "Мощный промышленный принтер штрих-кодов для интенсивного использования на складах и производстве.",
     price: 29999,
-    image: "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fru.idprt.com%2Fuploads%2Fonline_edit_pic%2F20241129%2F1732863465776866.png&f=1&nofb=1&ipt=6f55d83eb14a1a5ce2858e3fc1e666ff7e9733ec05caab43db107449f868679f",
+    image: "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fru.idprt.com%2Fuploads%2Fportal%2F20220818%2Ff6f177532f3bfe95bfec83e1f9a49d78.png&f=1&nofb=1&ipt=eeb83b19a5c7731f925049cdac1b2b8c9ffdd2b95c98cb501a8441fb5d858941",
     category: "receipt-printers",
     features: [
       "Металлический корпус повышенной прочности",
