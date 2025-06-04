@@ -1,8 +1,8 @@
 
 import { useState } from 'react';
+import Image from 'next/image'
 import { Link } from 'react-router-dom';
 import { useCart } from '../context/CartContext';
-import { Button } from './ui/button';
 import { ShoppingCart, Menu, X, Search } from 'lucide-react';
 
 const Header = () => {
@@ -28,7 +28,9 @@ const Header = () => {
         <div className="flex items-center justify-between h-16">
           {/* Logo */}
           <div className="flex-shrink-0">
-            <Link to="/" className="text-2xl font-bold tracking-tight">ООО «ККМ.Центр»</Link>
+            <Link to="/" className="text-2xl font-bold tracking-tight">
+                <Image src="/logo_9_may.webp" alt="Logo" width={50} height={50} />
+            </Link>
           </div>
 
           {/* Desktop Navigation */}
