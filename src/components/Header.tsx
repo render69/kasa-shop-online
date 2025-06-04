@@ -1,6 +1,4 @@
-
 import { useState } from 'react';
-import Image from 'next/image'
 import { Link } from 'react-router-dom';
 import { useCart } from '../context/CartContext';
 import { ShoppingCart, Menu, X, Search } from 'lucide-react';
@@ -29,7 +27,7 @@ const Header = () => {
           {/* Logo */}
           <div className="flex-shrink-0">
             <Link to="/" className="text-2xl font-bold tracking-tight">
-                <Image src="/logo_9_may.webp" alt="Logo" width={50} height={50} />
+                <img src="/new_logo_9_may.webp" alt="Logo" width={200} height={150} className="object-contain" />
             </Link>
           </div>
 
