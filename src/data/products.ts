@@ -386,7 +386,7 @@ export const products: Product[] = [
     name: "Банковский терминал V9",
     description: "Современный банковский терминал для приема карт с магнитной полосой, чипом и бесконтактных платежей.",
     price: 15999,
-    image: "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmodulkassa.ru%2Fblog%2Fcockpit%2Fstorage%2Fuploads%2F2019%2F03%2F03%2F5c7be0ead1aeeModulkassa-214.jpg&f=1&nofb=1&ipt=b1a99dfa54457e2ed1647dbfa2cb30f24f93cadbf5a5cac8fd05a1bbd37c7f34",
+    image: "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fyapay.ru%2FContent%2FImages%2FYapayRetail%2FYR8.png&f=1&nofb=1&ipt=61f9cd8b5cca8b6387a74f0edafeba2f2ff13508c6667e497e596ac862401d5d",
     category: "accessories",
     features: [
       "Прием карт с магнитной полосой и чипом",
